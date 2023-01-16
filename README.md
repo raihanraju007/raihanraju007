@@ -4,11 +4,6 @@
 
 - 💞️ I love to software development is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so      many different people and departments. I prefer good relationships over my technical skills. it’s great to be able to come together with other professionals who are      striving towards the same goal.
 
-
-- 👋 Hi, I’m @raihanraju007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
       Linkdin: https://www.linkedin.com/in/raihanhossin
       Email: raihanraju007@gmail.com
