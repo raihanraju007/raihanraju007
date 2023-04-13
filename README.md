@@ -1,4 +1,4 @@
-- 👋 I’m a software Engineer, specializing in the web app development arena using Java, Spring Boot, PHP, and Laravel. For the last 2 years, I have been developing stock      market analytics web apps using PHP, and Laravel.
+- 👋 I’m a software Engineer, specializing in the web app development arena using PHP, and Laravel. For the last 2 years, I have been developing stock      market analytics web apps using PHP, and Laravel.
 
 - 👀 Currently, I am working as a System Analyst. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment. No        two days are the same for me; my tasks may involve analyzing algorithms, altering code, fixing bugs, brainstorming ideas, or integrating new systems.
 
