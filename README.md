@@ -1,15 +1,79 @@
-- 👋 I’m a software Engineer, specializing in the web app development arena using PHP, and Laravel. For the last 2 years, I have been developing stock      market analytics web apps using PHP, and Laravel.
+# 👋 Hi, I'm Md. Raihan Hossin
 
-- 👀 Currently, I am working as a System Analyst. I’m hands-on in all stages of the software development cycle, from planning and design to testing and deployment. No        two days are the same for me; my tasks may involve analyzing algorithms, altering code, fixing bugs, brainstorming ideas, or integrating new systems.
+🚀 Backend-focused Software Engineer with 3+ years of experience in building scalable web applications using **PHP (Laravel)** and **Java (Spring Boot)**.
 
-- 💞️ I love to software development is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so      many different people and departments. I prefer good relationships over my technical skills. it’s great to be able to come together with other professionals who are      striving towards the same goal.
+---
 
-- 📫 How to reach me 
-      Linkdin: https://www.linkedin.com/in/raihanhossin
-      Email: raihanraju007@gmail.com
-      Phone: +8801740387029
- 
-<!---
-raihanraju007/raihanraju007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💼 About Me
+- 🔧 Backend Developer & System Analyst
+- 🧠 Working across full SDLC (Planning → Design → Development → Deployment)
+- 🔗 Experienced in third-party API integrations (Payment, SMS, External Services)
+- ⚙️ Strong in database design & optimization (MySQL, PostgreSQL)
+- 🐳 Hands-on with Docker (Laravel Sail)
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**
+- PHP (Laravel)
+- Java (Spring Boot)
+- REST API Development
+
+**Frontend:**
+- React.js
+- Next.js
+- Angular
+- JavaScript, Tailwind CSS, Bootstrap
+
+**Database:**
+- MySQL
+- PostgreSQL
+
+**Tools & DevOps:**
+- Git & GitHub
+- Docker
+- Postman
+- Linux Basics
+
+**Architecture & Practices:**
+- Service Repository Pattern
+- Modular Architecture
+- SOLID Principles
+- MVC
+
+---
+
+## 🌱 Currently Learning
+- ☁️ AWS (Cloud Computing)
+- 🔄 CI/CD Pipelines
+- ⚡ Advanced Spring Boot
+- 🎨 Frontend Ecosystem
+
+---
+
+## 🚀 Projects
+- 📊 Stock Market Analytics Platform (Sheba Capital)
+- 💼 Investment Platform (InvestUp)
+- 🏛️ Political Party Management System (PPMS)
+- 🏋️ Gym Management System
+- 🎓 Learning Management System
+
+---
+
+## 🤝 Work Philosophy
+I believe software development is not just about code — it's about collaboration.  
+I enjoy working with cross-functional teams and building strong professional relationships.
+
+---
+
+## 📫 Contact Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/raihanhossin  
+- 📧 Email: raihanraju007@gmail.com  
+- 📱 Phone: +8801740387029  
+- 💻 GitHub: https://github.com/raihanraju007  
+
+---
+
+## ⚡ Fun Fact
+I love solving real-world problems through clean and scalable backend systems 🚀
