@@ -1,152 +1,260 @@
-# 👋 MD. RAIHAN HOSSIN  
-### Spring Boot Backend Engineer · Java · Fintech · ERP · Enterprise Systems  
+# 👋 Hi, I'm MD. Raihan Hossin
 
-📍 Dhaka, Bangladesh  
-🌐 Open to: Remote / Hybrid / Onsite  
-📞 +880 1740 387029  
-📧 raihanraju007@gmail.com  
-🔗 GitHub: github.com/raihanraju007  
-🔗 LinkedIn: linkedin.com/in/raihanraju007  
+### Backend Engineer | Java & Spring Boot | Laravel | REST APIs | PostgreSQL | Redis | Docker | Enterprise ERP & Fintech Systems
 
----
+📍 Dhaka, Bangladesh
+🌍 Open to **Remote · Hybrid · Onsite**
 
-## 🧠 SUMMARY
-
-Backend Engineer with 4+ years of experience building scalable REST APIs and enterprise web applications in fintech, capital markets, and ERP systems.
-
-Currently focused on Java and Spring Boot, building **Build360 ERP system** covering e-commerce, POS, inventory, and stock management using a modular-monolith architecture with a clean layered design (Controller → Service → Repository → DTO → Entity).
-
-Strong hands-on experience with Spring Boot, Spring Data JPA / JPQL, Spring Security (JWT), Spring AOP, Redis caching, DTO validation, global exception handling, Liquibase, and Swagger/OpenAPI on PostgreSQL.
-
-Previously worked extensively with PHP/Laravel and MySQL in fintech and enterprise systems, building backend platforms, cron-based automation, and third-party integrations.
-
-Open to backend engineering roles (remote, hybrid, onsite, contract).
+📧 **Email:** [raihanraju007@gmail.com](mailto:raihanraju007@gmail.com)
+💼 **LinkedIn:** linkedin.com/in/raihanraju007
+💻 **GitHub:** github.com/raihanraju007
 
 ---
 
-## 🛠️ TECHNICAL SKILLS
+# 🚀 About Me
 
-### Java & Spring Boot
-Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Spring Security, Spring AOP
+Backend Engineer with **5+ years of professional experience** designing and building scalable backend systems for **ERP, fintech, capital markets, e-commerce, and social platforms**.
 
-### Backend & APIs
-REST API Design, JPQL, DTO Mapping, Bean Validation, Global Exception Handling, Pagination, Swagger/OpenAPI
+I currently work at **Global 360 Ventures**, where my primary focus is developing **Build360**, an enterprise ERP platform built with **Java, Spring Boot, PostgreSQL, Redis, Liquibase, and Docker**. The platform covers product catalog, e-commerce, POS, inventory, ordering, and stock management, following a **modular monolith** architecture with clean layered design principles.
+
+Alongside Java development, I also contribute to several production Laravel applications, including a **Social Media Platform**, **Political Party Management System (PPMS)**, and **InvestUp**, where I develop new backend features, maintain existing modules, build REST APIs, optimize database queries, integrate third-party services, and provide production support.
+
+Before joining Global 360 Ventures, I spent more than four years building fintech and capital-market systems with Laravel, including brokerage back-office platforms, customer portals, financial reporting systems, and automated stock-market data processing pipelines.
+
+I enjoy building clean backend architectures, designing scalable APIs, solving complex business problems, and continuously learning modern backend technologies such as AWS, Kubernetes, Microservices, Kafka, RabbitMQ, and AI-powered software development.
+
+---
+
+# 🛠 Tech Stack
+
+### Backend
+
+* Java
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* Hibernate
+* Spring Security
+* Spring AOP
+* PHP
+* Laravel
+* Node.js
+* Express
+* NestJS
+
+### Database
+
+* PostgreSQL
+* MySQL
+* Redis
+
+### API Development
+
+* REST APIs
+* JWT Authentication
+* Bean Validation
+* JPQL
+* Swagger / OpenAPI
+* API Pagination
+* Global Exception Handling
 
 ### Architecture
-Modular Monolith, Layered Architecture, Service-Repository Pattern, SOLID Principles, Clean Code
 
-### Security
-JWT Authentication, Spring Security, Role-Based Access Control
+* Modular Monolith
+* Layered Architecture
+* SOLID Principles
+* Clean Architecture
+* Service-Repository Pattern
 
-### Database & Caching
-PostgreSQL, MySQL, Redis, Schema Design, Query Optimization, Liquibase
+### DevOps
 
-### DevOps & Tools
-Docker, Git, Maven, Postman, Linux
-
-### Languages
-Java, PHP, SQL, JavaScript
-
-### Laravel (Legacy Experience)
-Laravel, Eloquent ORM, REST APIs, Cron Jobs, Third-party integrations
+* Docker
+* Maven
+* Git
+* GitHub Actions
+* Linux
+* Liquibase
 
 ### Currently Learning
-Microservices, AWS, CI/CD, Unit Testing (JUnit)
+
+* AWS
+* CI/CD
+* Kubernetes
+* Microservices
+* Kafka
+* RabbitMQ
+* AI / LLM Applications
+* Agentic AI Development
 
 ---
 
-## 💼 PROFESSIONAL EXPERIENCE
+# 💼 Professional Experience
 
-### Backend Engineer · Global 360 Ventures  
-📅 May 2025 – Present · Dhaka, Bangladesh  
+## Backend Engineer
 
-- Designed and developed REST APIs for **Build360 ERP system** (e-commerce, POS, inventory, stock management)
-- Implemented layered architecture: Controller → Service → Repository → DTO → Entity
-- Built secure APIs using Spring Security with JWT & role-based access control
-- Used Spring Data JPA + JPQL for optimized database access
-- Implemented Redis caching for performance optimization
-- Designed DTO validation and global exception handling
-- Managed DB migrations using Liquibase
-- Documented APIs using Swagger/OpenAPI
-- Containerized services using Docker
+**Global 360 Ventures**
+**May 2025 – Present**
 
-**Additional Systems:**
-- Social Media backend (Laravel + MySQL): posts, comments, likes, media handling
-- PPMS (Political Party Management System)
-- InvestUp (Investment platform APIs)
+### Build360 ERP Platform (Java • Spring Boot)
 
----
+* Design and develop REST APIs for enterprise ERP modules.
+* Develop backend services using Java and Spring Boot.
+* Build modular monolith applications using layered architecture.
+* Implement Spring Security with JWT authentication and RBAC.
+* Design relational database models using PostgreSQL.
+* Develop data access with Spring Data JPA and JPQL.
+* Implement Redis caching for performance optimization.
+* Manage database versioning with Liquibase.
+* Document APIs using Swagger/OpenAPI.
+* Containerize applications with Docker.
 
-### Backend Engineer & System Analyst · AHC & Co. Ltd. (Sheba Group)  
-📅 Mar 2021 – Apr 2025 · Dhaka, Bangladesh  
+### Laravel Enterprise Applications
 
-- Developed fintech & capital-market backend systems using Laravel & MySQL
-- Designed relational database schemas for financial systems
-- Optimized SQL queries for high-volume data processing
-- Built cron jobs for automated market data processing
-- Integrated third-party financial APIs
-- Worked on system analysis and technical documentation
+Actively contribute to multiple Laravel production systems, including:
 
----
+* **Social Media Platform**
 
-## 🚀 PROJECT HIGHLIGHTS
+  * Posts
+  * Nested comments
+  * Reactions
+  * Media uploads
+  * Albums
+  * Activity feeds
+  * REST APIs
 
-### 🏢 Build360 — ERP & Commerce Platform  
-Java · Spring Boot · PostgreSQL · Redis · Docker  
+* **Political Party Management System (PPMS)**
 
-Modular ERP system covering e-commerce, POS, inventory, and stock management.  
-Built secure REST APIs using layered architecture with JWT authentication, Redis caching, and database versioning using Liquibase.
+  * Backend feature development
+  * REST API implementation
+  * Business workflow automation
+  * Database optimization
 
----
+* **InvestUp**
 
-### 💬 Social Media Backend Platform  
-PHP · Laravel · MySQL · REST APIs  
+  * Investment platform backend
+  * Third-party API integrations
+  * Feature enhancements
+  * Production maintenance
 
-Backend system supporting posts, comments (nested), reactions, sharing, media upload, albums, and activity feed.
+Additional responsibilities:
 
----
-
-### 💰 InvestUp & PPMS Systems  
-REST APIs · Backend Architecture · Integrations  
-
-Backend services for investment management (InvestUp) and political party management (PPMS) with core business logic and external integrations.
-
----
-
-### 🏦 Sheba Capital Systems  
-Laravel · MySQL · Fintech Backend  
-
-Capital market portal, back-office system, and venture management platform with optimized financial data processing and cron-based automation.
+* Maintain and enhance existing Laravel applications.
+* Fix production issues and optimize application performance.
+* Design new backend modules and APIs.
+* Collaborate with product managers, QA engineers, frontend developers, and business analysts.
+* Participate in code reviews, technical documentation, and system design discussions.
 
 ---
 
-## 🎓 EDUCATION
+## Backend Engineer & System Analyst
 
-- 🎓 BSc in CIS — Daffodil International University (2020) | CGPA: 3.47  
-- 🎓 NCC Level 5 Diploma — Daffodil International Academy (2018)  
-- 🎓 HSC — Varendra College, Rajshahi (2014)  
+**AHC & Co. Ltd. (Sheba Group)**
+**March 2021 – April 2025**
+
+Worked on enterprise fintech and capital-market solutions including:
+
+* Brokerage Back-office Systems
+* Customer Portals
+* Investment Platforms
+* Financial Reporting Systems
+* Stock Market Analytics
+
+Responsibilities included:
+
+* Laravel backend development
+* REST API development
+* System analysis
+* Requirement gathering
+* Technical documentation
+* Database design
+* SQL optimization
+* Third-party API integration
+* Cron jobs and automation
+* Financial data processing
 
 ---
 
-## 📜 CERTIFICATIONS
+# 🚀 Featured Projects
 
-- Java Developer — LICT (2018)  
-- Laravel Developer — Hi-Tech Park (2019)  
-- PHP Web Development — LICT (2017)  
-- Software Testing & QA — BITM  
-- AI Week 4.0 Bootcamp — SOCIAN Ltd  
+### 🏢 Build360 ERP
 
----
+**Java • Spring Boot • PostgreSQL • Redis • Docker**
 
-## 🤝 COMMUNITY
+Enterprise ERP platform covering:
 
-- Senior Mentor & Trainer (ISCPC, NGPC)
-- Problem Setter – CIS Day 2019
-- Volunteer – BDOSN (30+ programs)
-- Tech workshop co-coordinator (BDOSN + Prothom Alo)
+* Product Catalog
+* E-commerce
+* POS
+* Inventory
+* Ordering
+* Stock Management
 
 ---
 
-## ⚡ FUN FACT
+### 💬 Social Media Platform
 
-I enjoy building backend systems that are not just functional — but scalable, secure, and production-ready 🚀
+**Laravel • MySQL**
+
+Production backend supporting:
+
+* Posts
+* Nested Comments
+* Reactions
+* Sharing
+* Media Uploads
+* Albums
+* Activity Feed
+
+---
+
+### 🗳 Political Party Management System (PPMS)
+
+**Laravel**
+
+Enterprise platform supporting political organization management, user administration, workflow automation, and secure backend services.
+
+---
+
+### 💰 InvestUp
+
+**Laravel**
+
+Investment platform featuring secure REST APIs, third-party integrations, business workflows, and production-grade backend services.
+
+---
+
+### 🏦 Sheba Capital
+
+**Laravel • MySQL**
+
+Capital-market platform including brokerage back-office systems, customer portals, automated financial data processing, reporting, and market-data integrations.
+
+---
+
+# 📚 Currently Learning
+
+* Enterprise Spring Boot
+* Distributed Systems
+* AWS Cloud
+* Kubernetes
+* CI/CD Pipelines
+* Kafka & RabbitMQ
+* AI / LLM Integration
+* Agentic AI Development
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on:
+
+* Java & Spring Boot
+* Laravel
+* Backend Engineering
+* Enterprise Software
+* ERP Systems
+* Fintech
+* API Design
+* System Architecture
+* AI-powered Applications
+* Open Source
